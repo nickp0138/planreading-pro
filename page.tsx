@@ -1,0 +1,1 @@
+import PlanReadingLanding from "@/components/PlanReadingLanding"; export default function Home(){return <PlanReadingLanding/>}
